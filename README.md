@@ -1,8 +1,7 @@
 # Arcana-Poker
-使用方法
+使用方法  
 Windows  
-app/win/Arcana_Poker_win_?_?.zipを解凍し、Arcana_Poker.exeを起動してください。
-
+app/win/Arcana_Poker_win_?_?.zipを解凍し、Arcana_Poker.exeを起動してください。  
 Mac  
 app/mac/Arcana_Poker_mac_?_?.zipを解凍し、Arcana_Poker.appを起動してください。
 
