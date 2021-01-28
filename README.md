@@ -1,6 +1,9 @@
 # Arcana-Poker
 使用方法
-Arcana_Poker.exe または Arcana_Poker.appを起動してください。
+Windows
+app/win/Arcana_Poker_win_~.zipを解凍し、Arcana_Poker~.exeを起動してください。
+Mac
+app/mac/Arcana_Poker_mac_~.zipを解凍し、Arcana_Poker~.appを起動してください。
 
 ゲーム概要
 大アルカナを用いた２人対戦型のカードゲームです。お互いに22枚の大アルカナ1枚ずつをデッキとし、カードには個別に攻撃力・守備力・効果が設定されています。ターンごとに手札から2枚を場に出しバトルを行い、相手のHPを０にした方が勝利です。難易度によっては、カードの組み合わせによって、特別な効果が発動します。
